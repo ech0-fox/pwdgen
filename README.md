@@ -6,7 +6,7 @@ pwdgen is written in Rust. To build and run it properly, make sure Rust (v1.46 o
 
 First, clone this repository. Then, assuming Rust is installed, navigate to the newly created pwdgen directory and run the following command:
 
-    cargo run
+    cargo build
 
 This will build and run a compiled executable of pwdgen, located in the project folder under <u>/target/debug</u>.
 
