@@ -8,7 +8,7 @@ First, clone this repository. Then, assuming Rust is installed, navigate to the 
 
     cargo build --release
 
-This will build and run a compiled executable of pwdgen, located in the project folder under <u>/target/debug</u>.
+This will build and run a compiled executable of pwdgen, located in the project folder under <u>/target/release</u>.
 
 ## dependencies
 pwdgen was built using these crates (available through <u>**crates.io**</u>):
