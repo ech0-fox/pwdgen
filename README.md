@@ -11,7 +11,7 @@ First, clone this repository. Then, assuming Rust is installed, navigate to the 
 This will build and run a compiled executable of pwdgen, located in the project folder under <u>/target/release</u>.
 
 ## dependencies
-pwdgen was built using these crates (available through <u>**crates.io**</u>):
+pwdgen was built using these packages (available through <u>**crates.io**</u>):
 
 **rand** (v.0.8.5) - enables pwdgen's random number generation  
 **clap** (v.4.3.12) - allows pwdgen to take parameters and flags dynamically from the command line
